@@ -1,12 +1,20 @@
 # Proyecto: Generador de Contraseñas
 
-Este proyecto es una aplicación web sencilla que permite generar contraseñas aleatorias. El usuario puede especificar la cantidad de caracteres que desea para la contraseña y el sistema generará una contraseña aleatoria que cumple con los criterios especificados. Además, la aplicación valida la fortaleza de la contraseña generada y permite limpiar el campo de entrada de forma fácil.
+Este proyecto es una aplicación web que permite generar contraseñas aleatorias, desarrollado como parte de los retos de formación de [Alura](https://www.alura.com.br/). El usuario puede especificar la cantidad de caracteres deseada para la contraseña, y el sistema generará una contraseña aleatoria que cumple con los criterios de seguridad establecidos.
 
 ## Características
 
-- **Generación de Contraseñas Aleatorias**: El usuario puede elegir la longitud de la contraseña. El generador incluye letras mayúsculas, minúsculas, números y caracteres especiales.
-- **Validación de Fortaleza de Contraseñas**: La aplicación verifica si la contraseña generada es fuerte o débil en base a la presencia de mayúsculas, minúsculas, números y caracteres especiales.
-- **Botón de Limpiar**: Se añadió un botón para limpiar fácilmente el campo de la contraseña generada.
+- **Generación de Contraseñas Aleatorias**: El usuario puede elegir la longitud de la contraseña, que incluye letras mayúsculas, minúsculas, números y caracteres especiales.
+- **Validación de Fortaleza de Contraseñas**: Se verifica si la contraseña generada es fuerte o débil, evaluando la presencia de mayúsculas, minúsculas, números y caracteres especiales.
+- **Botón de Limpiar**: Permite limpiar el campo de la contraseña generada para realizar nuevas pruebas.
+
+## Contribuciones
+
+Este proyecto fue inicialmente desarrollado por [Alura](https://www.alura.com.br/). Las siguientes características adicionales fueron implementadas por [Maycol127](https://github.com/Maycol127):
+
+- Validación para determinar si la contraseña es fuerte o débil.
+- Inclusión de caracteres adicionales en la generación de contraseñas.
+- Funcionalidad para limpiar el campo de la contraseña generada.
 
 ## Instalación
 
@@ -29,7 +37,7 @@ Para utilizar este proyecto localmente, sigue los siguientes pasos:
 ## Tecnologías Utilizadas
 
 - **HTML5**: Estructura de la página web.
-- **CSS**: Diseño y estilos del sitio web.
+- **CSS3**: Diseño y estilos del sitio web.
 - **JavaScript**: Lógica para la generación de contraseñas y validación de la fortaleza.
 
 ## Contribuciones
@@ -38,7 +46,7 @@ Para utilizar este proyecto localmente, sigue los siguientes pasos:
 
 ## Autor
 
-Desarrollado por [Maycol127](https://github.com/Maycol127).
+Desarrollado por [Maycol127](https://github.com/Maycol127) con la base del proyecto de [Alura](https://www.alura.com.br/).
 
 ## Licencia
 
