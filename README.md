@@ -37,7 +37,7 @@ Para utilizar este proyecto localmente, sigue los siguientes pasos:
 ## Tecnologías Utilizadas
 
 - **HTML5**: Estructura de la página web.
-- **CSS3**: Diseño y estilos del sitio web.
+- **CSS**: Diseño y estilos del sitio web.
 - **JavaScript**: Lógica para la generación de contraseñas y validación de la fortaleza.
 
 ## Contribuciones
