@@ -40,14 +40,6 @@ Para utilizar este proyecto localmente, sigue los siguientes pasos:
 - **CSS**: Diseño y estilos del sitio web.
 - **JavaScript**: Lógica para la generación de contraseñas y validación de la fortaleza.
 
-## Contribuciones
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar el proyecto, realiza un fork del repositorio, crea una nueva rama con tus cambios y envía un pull request.
-
 ## Autor
 
 Desarrollado por [Maycol127](https://github.com/Maycol127) con la base del proyecto de [Alura](https://www.alura.com.br/).
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
